@@ -1,2 +1,0 @@
-# Bocadorepo
-Becado Technology
